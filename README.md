@@ -1,4 +1,4 @@
-# fastai
+# Computer Vision application using fastai and CNNs
 
 Computer vision project that allows us to find and label fruit in an image. This script was expanded on and used in the nutrition mobile application.
 
